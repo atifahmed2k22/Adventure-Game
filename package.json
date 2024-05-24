@@ -1,6 +1,6 @@
 {
   "name": "amr68-adventure-game",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a Adventure game with using TypeScript, Node.JS and inquirer.",
   "main": "index.js",
   "type": "module",
@@ -10,7 +10,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "chalk": "^5.3.0",
     "inquirer": "^9.2.22"
